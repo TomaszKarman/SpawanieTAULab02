@@ -1,0 +1,2 @@
+# SpawanieTAULab02
+SpawanieTAU
