@@ -1,0 +1,7 @@
+notifications:
+  email: false
+
+language: java
+script:
+- cd lab01; mvn test
+
